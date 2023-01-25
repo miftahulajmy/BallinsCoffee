@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376679648546",
+    "project_id": "ballinscoffee",
+    "storage_bucket": "ballinscoffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376679648546:android:e11afe79e5bd5852cda97b",
+        "android_client_info": {
+          "package_name": "com.example.project_irfan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376679648546-7f371ao1osg460dek7ngiuho3fo8ejp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_irfan",
+            "certificate_hash": "bcd959faf8648f63ffceb07283feb57c99a6bfde"
+          }
+        },
+        {
+          "client_id": "376679648546-hljb09n5r2tm0trtl6eq0lqriqntls1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_WEsNj9pFbpTpnRm0wXnfFf1_GSAh7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376679648546-hljb09n5r2tm0trtl6eq0lqriqntls1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Beranda"
+        android:id="@+id/beranda"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:title="Pesan"
+        android:id="@+id/pesan"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:title="Promo"
+        android:id="@+id/promo"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:title="Profil"
+        android:id="@+id/profil"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>

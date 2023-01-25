@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/coklat1"
+    android:weightSum="100">
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:text="Balins"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+
+    <ImageView
+        android:id="@+id/gambar_detail_menu_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="70"
+        android:layout_margin="16dp"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tema_detail_menu_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:textColor="#000"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/nama_detail_menu_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/deskripsi_detail_menu_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/harga_detail_menu_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
