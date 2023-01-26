@@ -46,11 +46,6 @@ class MainActivity  : AppCompatActivity() {
         startActivity(i)
     }
 
-    fun keLogin(view: View?) {
-        val i = Intent(applicationContext, LoginActivity::class.java)
-        startActivity(i)
-    }
-
     fun keMaps(view: View?) {
         val i = Intent(applicationContext, MapsActivity::class.java)
         startActivity(i)
